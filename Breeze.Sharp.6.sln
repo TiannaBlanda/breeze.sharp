@@ -1,6 +1,6 @@
 ﻿
-Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 16
+Microsoft!Visual Studio Solution File, Format Version 12.00
+! Visual Studio Version 16
 VisualStudioVersion = 16.0.29519.181
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Breeze.Sharp.6", "Breeze.Sharp\Breeze.Sharp.6.csproj", "{C9E4B61A-6A94-4527-AE36-B8330D5DABFC}"
@@ -52,3 +52,4 @@ Global
 		SolutionGuid = {D1192861-961B-44FC-9437-E4916B820169}
 	EndGlobalSection
 EndGlobal
+ 
